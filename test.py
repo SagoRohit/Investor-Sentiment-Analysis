@@ -11,7 +11,7 @@ def test_twitter_api_with_query():
     Fixed test using your exact Twitter search query
     """
     # 🔑 Replace with your actual API key
-    API_KEY = "new1_736fd36e2c8641a9bbe183518fc81aca"
+    API_KEY = "**"
     
     # 🌐 API Endpoint
     BASE_URL = "https://api.twitterapi.io/twitter/tweet/advanced_search"
